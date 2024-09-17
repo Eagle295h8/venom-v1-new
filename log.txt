@@ -1,0 +1,54 @@
+UserID: 5563207685 | Time: 2024-09-14 11:11:31.316641 | Command: /bgmi | Target: 4.213.65.140 | Port: 22042 | Time: 500
+Username: @Verifiedeagle
+Target: 4.213.65.140
+Port: 22042
+Time: 500
+
+UserID: 5563207685 | Time: 2024-09-15 08:39:10.738482 | Command: /bgmi | Target: 20.235.92.154 | Port: 27781 | Time: 240
+Username: @Verifiedeagle
+Target: 20.235.92.154
+Port: 27781
+Time: 240
+
+UserID: 5563207685 | Time: 2024-09-15 12:59:21.673591 | Command: /bgmi | Target: 4.213.68.37 | Port: 28951 | Time: 500
+Username: @Verifiedeagle
+Target: 4.213.68.37
+Port: 28951
+Time: 500
+
+UserID: 5563207685 | Time: 2024-09-15 13:14:27.761894 | Command: /bgmi | Target: 20.198.79.189 | Port: 27553 | Time: 500
+Username: @Verifiedeagle
+Target: 20.198.79.189
+Port: 27553
+Time: 500
+
+UserID: 5563207685 | Time: 2024-09-16 13:23:08.394456 | Command: /bgmi | Target: 20.198.74.110 | Port: 26453 | Time: 500
+Username: @Verifiedeagle
+Target: 20.198.74.110
+Port: 26453
+Time: 500
+
+UserID: 5563207685 | Time: 2024-09-17 05:05:09.320822 | Command: /bgmi | Target: 20.219.166.28 | Port: 28822 | Time: 500
+Username: @Verifiedeagle
+Target: 20.219.166.28
+Port: 28822
+Time: 500
+
+UserID: 5563207685 | Time: 2024-09-17 05:38:36.131373 | Command: /bgmi | Target: 20.198.79.2 | Port: 26306 | Time: 240
+Username: @Verifiedeagle
+Target: 20.198.79.2
+Port: 26306
+Time: 240
+
+UserID: 5563207685 | Time: 2024-09-17 05:53:05.873570 | Command: /bgmi | Target: 20.204.18.24 | Port: 14378 | Time: 600
+Username: @Verifiedeagle
+Target: 20.204.18.24
+Port: 14378
+Time: 600
+
+UserID: 5563207685 | Time: 2024-09-17 06:05:43.614583 | Command: /bgmi | Target: 20.204.18.24 | Port: 14378 | Time: 600
+Username: @Verifiedeagle
+Target: 20.204.18.24
+Port: 14378
+Time: 600
+
